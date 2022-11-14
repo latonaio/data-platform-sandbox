@@ -1,3 +1,7 @@
+<p align="center"> <img src="https://user-images.githubusercontent.com/91356865/144049159-1ebbd095-87d2-4a3c-81cb-277cc1d4c7b7.png" width="300"> </p> <p align="center"> Starting Up the API Environment on a "Full-of-Beans" SandBox </p>
+
+***
+
 # data-platform-sandbox  
 data-platform-sandbox は、周辺業務システムをデータ連携基盤と統合することを目的として作成されたリソースをまとめたリポジトリです。  
 data-platform-sandbox の 「sandbox」は、Netflix 韓国ドラマ 「START-UP」 より、すべての開発者のための 地ならし になればという想いから命名されました。  
